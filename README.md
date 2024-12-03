@@ -13,3 +13,9 @@ Advent of Code 2024
   Part 1: 598 <br/>
   Part 2: 634 <br/>
 </details>
+<details>
+  <summary>Day 03: Go</summary>
+  Solutions: <br/>
+  Part 1: 187825547 <br/>
+  Part 2: 85508223 <br/>
+</details>
