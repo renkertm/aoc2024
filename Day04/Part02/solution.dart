@@ -21,8 +21,6 @@ void main(){
                 if(input[i+1][j-1] == "M" && input[i-1][j+1] == "S"){count += 1;}
             }
         }
-        
-    
     }
     print(count);
 }
